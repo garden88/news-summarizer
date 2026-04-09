@@ -1,3 +1,11 @@
+# Daily Brief — 데일리 뉴스 브리핑
+
+네이버 뉴스 검색 + OpenAI로 **TOP 10 핵심 기사**, **키워드 워드클라우드**, 감정·주제·트렌드 요약을 보여 주는 [Next.js](https://nextjs.org) 앱입니다.
+
+**그림이누나**
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
